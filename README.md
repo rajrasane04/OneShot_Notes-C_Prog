@@ -1,6 +1,6 @@
 # OneShot_Notes-C_Prog
 
-This repository contains comprehensive notes and practice programs for revising C programming concepts. It is designed to help students quickly review the fundamentals of C programming before starting more advanced topics such as Data Structures.
+This repository contains comprehensive notes and practice programs for revising C programming concepts. It is designed to help a individual quickly review the fundamentals of C programming before starting more advanced topics such as Data Structures.
 
 ## Contents
 
